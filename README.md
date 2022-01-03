@@ -19,8 +19,5 @@ The Following point should be considered when implementing security on AWS VPC
 •	Use flow logs to capture information about IP traffic going to and from network interfaces in your VPC. 
 
 
-               Daigramatic Presentation of the Infrastructure provisioned by Terraform Script for AirTek
-               
-            
-            ![image](https://user-images.githubusercontent.com/61547917/147901258-fe5d3a41-8000-43ee-9b03-5896c06abf30.png)
+           
 
